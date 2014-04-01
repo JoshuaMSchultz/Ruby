@@ -13,3 +13,4 @@ def insertion_sort array
 end
   
   insertion_sort(["goof","fire","apple","charlie","Erika","elephant","dog"])
+
