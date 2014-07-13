@@ -13,7 +13,6 @@ def selection_sort array
       array.swap!(index,array.index(array[index+1..array.length-1].min))
     end
   end
-  puts array  
+  return array  
 end
   
-selection_sort(["goof","fire","apple","charlie","Erika","elephant","dog"])
